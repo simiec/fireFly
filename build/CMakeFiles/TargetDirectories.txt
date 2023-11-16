@@ -1,0 +1,3 @@
+/home/ugurcan/Desktop/pythonScripts/fireFly/build/CMakeFiles/fireFly.dir
+/home/ugurcan/Desktop/pythonScripts/fireFly/build/CMakeFiles/edit_cache.dir
+/home/ugurcan/Desktop/pythonScripts/fireFly/build/CMakeFiles/rebuild_cache.dir

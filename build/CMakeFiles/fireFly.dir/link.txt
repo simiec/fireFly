@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fireFly.dir/main.cpp.o -o fireFly  /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-audio.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1 /home/ugurcan/Downloads/Box2D_v2.3.0/Box2D/Build/Box2D/libBox2D.a 
